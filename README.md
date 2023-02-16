@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Lee 👋
+I graduated with a **Ph.D. in Biomedical Engineering** from the **University of Virginia**. After years of simulating infectious disease biology to create data for machine learning models, I now build simulations for military and manufacturing applications as a **Simulation Analyst** at [Engineering Industries eXcellence](https://www.indx.com/). 
 
-<!--
-**Lee-Talman/Lee-Talman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work has always intersected heavily with software engineering and data science. Here's just a sample of the technologies I use now, and what I have experience in:
 
-Here are some ideas to get you started:
+## Software Engineering
+* Python | *Django, Flask*
+* C# | *ASP.NET, Blazor*
+* Java | *JUnit, Spring Boot*
+* SQL | *Microsoft SQL Server, SSMS*
+* Cloud Servers | *AWS, Azure*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Machine Learning & Data Science
+* Data Viz | *Tableau, R Shiny, Plotly*
+* ML Tools | *scikit-learn, PyTorch, keras*
+
+## Simulation & Modeling
+* Simulation Libraries | *NetLogo, Repast Simphony, SimPy*
+* Industry Simulation | *AnyLogic, Plant Simulation*
+* Mathematical Modeling | *MATLAB, R*
+
+Find me on [Twitter](https://twitter.com/LeeTalman), [LinkedIn](https://www.linkedin.com/in/lee-talman/), or email me at leetlmn@gmail.com.
