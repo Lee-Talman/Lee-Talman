@@ -16,7 +16,7 @@ My work has always intersected heavily with software engineering and data scienc
 
 ## Simulation & Modeling
 * Simulation Libraries | *`NetLogo`, `Repast Simphony`, SimPy*
-* Industry Simulation | *`AnyLogic`, `Plant Simulation`*
+* Industry Simulation | *`AnyLogic`, `Technomatix Plant Simulation`*
 * Mathematical Modeling | *MATLAB, `R`*
 
 Find me on [Twitter](https://twitter.com/LeeTalman), [LinkedIn](https://www.linkedin.com/in/lee-talman/), or email me at leetlmn@gmail.com.
