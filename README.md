@@ -3,8 +3,9 @@ I graduated with a **Ph.D. in Biomedical Engineering** from the **University of 
 
 My work has always intersected heavily with software engineering and data science. Here's just a sample of the tools I use or have used in the past:
 
-* Languages | *Java, C#/.NET, Python, SQL, Git, R*
-* Services | *AWS EC2/S3, Azure DevOp, MS SQL Server, GitHub*
+* Languages | *Java, C#, Python, SQL, Git, R*
+* Frameworks | *ASP.NET Core, Entity Framework Core, Spring Boot, Hibernate, React.js*
+* Cloud Services | *AWS, Azure, Google Cloud Platform*
 * Data Visualization | *R Shiny, Tableau, Plotly, MATLAB*
 * AI/ML Tools | *scikit-learn, PyTorch, keras*
 
