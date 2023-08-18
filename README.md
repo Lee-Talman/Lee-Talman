@@ -1,5 +1,5 @@
 # Hi, I'm Lee Talman
-I graduated with a **Ph.D. in Biomedical Engineering** from the **University of Virginia**. After years of simulating infectious disease biology to create data for machine learning models, I now build full-stack simulation software for military, manufacturing, and agricultural applications as a **Senior Simulation Engineer** at [Engineering Industries eXcellence](https://www.indx.com/). 
+I graduated with a **Ph.D. in Biomedical Engineering** from the **University of Virginia**. After years of simulating infectious disease biology, I now build full-stack simulation software for military, manufacturing, and agricultural applications as a **Senior Simulation Engineer** at [Engineering Industries eXcellence](https://www.indx.com/). 
 
 My work has always intersected heavily with software engineering and data science. Here's just a sample of the tools I use or have used in the past:
 
